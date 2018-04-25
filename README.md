@@ -18,3 +18,12 @@
     - [Java IO 流 - 转换流](https://github.com/dstcxxxz/syt/issues/4)
     - [Java IO 流 - File 类](https://github.com/dstcxxxz/syt/issues/5)
     - [Java IO 流 - 其他流对象](https://github.com/dstcxxxz/syt/issues/6)
+
+## 第 2 周 (2018.04.25 - 2018.05.02)
+- **Topic** : Java 集合基础
+- **Host** : lihuayang
+- **Target**
+    - 掌握 Java 集合的总体框架，熟练画出总体的类图
+    
+- **Articles**
+    - [Java 集合 - 总体框架]()
