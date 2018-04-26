@@ -24,6 +24,6 @@
 - **Host** : lihuayang
 - **Target**
     - 掌握 Java 集合的总体框架，熟练画出总体的类图
-    
+    - 掌握 Java 集合的 Collection 架构，以及常用子类的常用方法
 - **Articles**
-    - [Java 集合 - 总体框架]()
+    - [Java 集合 - 总体框架](https://github.com/dstcxxxz/syt/issues/7)
