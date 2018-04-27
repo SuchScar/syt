@@ -27,3 +27,9 @@
     - 掌握 Java 集合的 Collection 架构，以及常用子类的常用方法
 - **Articles**
     - [Java 集合 - 总体框架](https://github.com/dstcxxxz/syt/issues/7)
+
+
+
+# 学习资源
+- [The Java Language Specification [ 官方 Java 文档 ]](https://docs.oracle.com/javase/specs/jls/se7/html/index.html)
+- [The Java® Virtual Machine Specification [ 官方 Jvm 文档 ]](https://docs.oracle.com/javase/specs/jvms/se7/html/)
