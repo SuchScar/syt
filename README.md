@@ -25,10 +25,11 @@
 - **Target**
     - 掌握 Java 集合的总体框架，熟练画出总体的类图
     - 掌握 Java 集合的 Collection 架构，以及常用子类的常用方法
+    - 掌握 Java 集合的 List 常用类、常用方法
+
 - **Articles**
     - [Java 集合 - 总体框架](https://github.com/dstcxxxz/syt/issues/7)
-
-
+    - [Java 集合 - Collection 架构](https://github.com/dstcxxxz/syt/issues/8)
 
 # 学习资源
 - [The Java Language Specification [ 官方 Java 文档 ]](https://docs.oracle.com/javase/specs/jls/se7/html/index.html)
