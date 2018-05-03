@@ -19,7 +19,7 @@
     - [Java IO 流 - File 类](https://github.com/dstcxxxz/syt/issues/5)
     - [Java IO 流 - 其他流对象](https://github.com/dstcxxxz/syt/issues/6)
 
-## 第 2 周 (2018.04.25 - 2018.05.02)
+## 第 2 周 (2018.04.25 - 2018.05.xx)
 - **Topic** : Java 集合基础
 - **Host** : lihuayang
 - **Target**
@@ -30,6 +30,7 @@
 - **Articles**
     - [Java 集合 - 总体框架](https://github.com/dstcxxxz/syt/issues/7)
     - [Java 集合 - Collection 架构](https://github.com/dstcxxxz/syt/issues/8)
+    - [Java 集合 - ArrayList 类](https://github.com/dstcxxxz/syt/issues/9)
 
 # 学习资源
 - [The Java Language Specification [ 官方 Java 文档 ]](https://docs.oracle.com/javase/specs/jls/se7/html/index.html)
